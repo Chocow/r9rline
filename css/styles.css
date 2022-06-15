@@ -1,0 +1,30 @@
+.submit-color {
+  background-color: #c82333 !important;
+}
+
+
+.image-plane {
+  background-image: url("../images/avion.jpg");
+}
+
+*.red {
+  color: red !important;
+}
+
+.margin-right {
+  margin-right: 30px;
+}
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+.margin-left {
+  margin-left: 110px;
+}
+
+.text_color{
+  color:red;
+}
